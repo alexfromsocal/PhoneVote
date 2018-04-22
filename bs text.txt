@@ -1,0 +1,9 @@
+Our company offers an intuitive, organized form of poll solutions which does not depend on the audience having access to internet, but instead just access to texting. This allows the pollster to survey the opinion of its audience without cutting the opportunity of people who cannot afford to have a data plan.
+
+
+
+Our product works with the help of Twilio's API, and will decrease the barrier for the lower class and the higher class to actively participate in important desitions. This product was initially designed to be used in political scenarios where you want everyone to actively participate, but has evolved to be more than that. It can be used in scenarios as different as a college class or a birthday party.
+
+
+
+Our mission is to provide polling solutions for large and small audiences, allowing everyone to participate in an anonimous way without impacting the economy of anyone in the audience.
